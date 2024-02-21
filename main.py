@@ -90,6 +90,8 @@ def adivinar_aux(n: int, b: int, e: int) -> int:
 
 
 def main() -> None:
+    """Función principal del juego."""
+
     print("Bienvenido al juego de adivinar.")
     print("Piensa en un número yo trataré de adivinarlo.")
     print("Dame un número inicial n para hacer el intento de n números a la vez.")
